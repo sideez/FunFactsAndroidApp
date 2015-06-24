@@ -1,6 +1,9 @@
+/*
+ * Copyright (c) 2015. Sideez Inc.
+ */
+
 package com.sideez.funfacts;
 
-import android.graphics.Color;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.View;

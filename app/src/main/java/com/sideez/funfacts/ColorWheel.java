@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2015. Sideez Inc.
+ */
+
 package com.sideez.funfacts;
 
 import android.graphics.Color;
